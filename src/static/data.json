@@ -1,0 +1,47 @@
+[
+  {
+    "name":"Odoo",
+    "description":"Gestion des congés payés",
+    "appUrl":"https://odoo.infra.synaltic.fr",
+    "logoUrl":"https://www.camptocamp.com/wp-content/uploads/formations_odoo.png",
+    "category":"tool",
+    "canIFrame":true,
+    "order":13
+  },
+  {
+    "name":"Chat",
+    "description":"Échanges entre collègues",
+    "appUrl":"https://chat.synaltic.fr/home",
+    "category":"tool",
+    "logoUrl":"/appLogos/1519988068427-rocket-chat.png",
+    "canIFrame":true,
+    "order":14
+  },
+  {
+    "name":"Cebelian",
+    "description":"Gestion de validation des activités",
+    "appUrl":"https://synaltic.cebelian.com/",
+    "category":"tool",
+    "logoUrl":"/appLogos/1519830116587-banner-logo.jpg",
+    "canIFrame":true,
+    "order":10
+  },
+  {
+    "name":"Gmail",
+    "description":"Vos messages",
+    "appUrl":"https://mail.google.com/mail/u/0/#inbox",
+    "category":"tool",
+    "logoUrl":"/appLogos/1519987806393-gmail__product_sans_logo_concept__by_cosmcala-da3xgqq.png",
+    "canIFrame":false,
+    "order":95
+  },
+  {
+    "name":"Redmine",
+    "description":"Gestion des projets",
+    "appUrl":"https://projets.synaltic.pro/",
+    "category":"tool",
+    "canIFrame":false,
+    "logoUrl":"/appLogos/1519985959482-ca21af775c7fa83cfc9a79b9ac88367f.png",
+    "order":1
+  }
+]
